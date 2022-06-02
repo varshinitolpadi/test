@@ -1,2 +1,3 @@
 name- sam
 reg no: 479
+address: 88 bg sch ugyy77
